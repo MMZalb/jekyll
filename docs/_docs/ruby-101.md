@@ -1,5 +1,7 @@
 ---
-title: Ruby 101
+
+$ cd ./node-YouTubeStreamer
+$ node server.jstitle: Ruby 101
 permalink: /docs/ruby-101/
 ---
 
